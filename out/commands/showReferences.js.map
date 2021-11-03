@@ -1,0 +1,1 @@
+{"version":3,"file":"showReferences.js","sourceRoot":"","sources":["../../src/commands/showReferences.ts"],"names":[],"mappings":";;;AACA,wCAAwC;AAExC,SAAgB,OAAO,CAAC,GAAW,EAAE,QAAyB,EAAE,UAA6B,EAAE,UAA6B;IAC3H,UAAU,CAAC,gBAAgB,CAAC,MAAM,CAAC,0BAA0B,CAAC,IAAI,EAAE,EAAE,YAAY,EAAE,EAAE,GAAG,EAAE,EAAE,QAAQ,EAAE,UAAU,EAAE,CAAC,CAAC;AACtH,CAAC;AAFD,0BAEC"}
